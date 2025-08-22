@@ -98,9 +98,12 @@ face-detection-app/
 ### Output Images:
 
 
-![Output_1](images/Output_1.jpg)
+![Output_1](images/output_1.jpg)
 
-![Output_2](images/Output_2.jpg)
+![Output_2](images/output_2.jpg)
+-----
+![Output_3](images/output_3.jpg)
+
 
 ## Authors
 
